@@ -1,0 +1,34 @@
+_repo: Abroad_23460
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Crane, Thomas
+    gutenberg_agent_id: '24833'
+    url: http://www.gutenberg.org/2009/agents/24833
+  - agent_name: Houghton, Ellen Elizabeth
+    alias: Houghton, Ellen
+    birthdate: 1853
+    deathdate: 1922
+    gutenberg_agent_id: '25857'
+    url: http://www.gutenberg.org/2009/agents/25857
+covers:
+- cover_type: archival
+  image_path: 23460-h/images/bcover.jpg
+description: ''
+gutenberg_issued: '2007-11-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23460'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Travel -- Juvenile literature'
+- !lcsh 'Children''s poetry'
+- !lcc 'PZ'
+- !lcsh 'Children''s stories'
+- !lcsh 'Poetry of places -- Juvenile literature'
+- !lcsh 'France -- Description and travel -- Juvenile literature'
+title: Abroad
+url: http://www.gutenberg.org/ebooks/23460
